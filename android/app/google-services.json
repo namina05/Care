@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692608134187",
+    "project_id": "care-5faa1",
+    "storage_bucket": "care-5faa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692608134187:android:eab1bd3c723e5d2305ce6e",
+        "android_client_info": {
+          "package_name": "com.example.care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NfCF_uXPBTcyhcZsgGgnzZ3YBju3YhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
