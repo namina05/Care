@@ -1,16 +1,39 @@
 # care
 
 A new Flutter project.
+# Smart Finger Rehabilitation Companion
 
-## Getting Started
+A mobile rehabilitation application built with **Flutter** that integrates with a **smart finger exoskeleton powered by an ESP32 microcontroller**. The system tracks physiotherapy exercise repetitions in real time and stores rehabilitation session data using **Firebase**.
 
-This project is a starting point for a Flutter application.
+The goal of this project is to create a digital rehabilitation companion that assists patients in performing hand therapy exercises while enabling progress monitoring through automated repetition tracking.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technology Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Flutter** – Cross-platform mobile application framework
+* **Dart** – Programming language used for app development
+* **ESP32** – Microcontroller used for motion detection and repetition tracking
+* **Firebase** – Cloud backend for storing rehabilitation session data
+* **Git & GitHub** – Version control and project collaboration
+
+---
+
+## Project Status
+
+🚧 **Currently under development**
+
+The project is actively being developed. Features such as real-time repetition tracking, session monitoring, and cloud-based progress storage are being implemented.
+
+Documentation and screenshots will be expanded as the system evolves.
+
+---
+
+## Future Features
+
+* Real-time exercise repetition tracking from ESP32
+* Physiotherapy exercise guidance within the mobile app
+* Exercise session statistics and progress tracking
+* Cloud storage of rehabilitation data using Firebase
+* Improved hardware–software communication
+
